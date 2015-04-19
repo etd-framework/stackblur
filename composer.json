@@ -1,0 +1,12 @@
+{
+  "name": "etdsolutions/stackblur",
+  "description": "Shim repository for StackBlur",
+  "homepage": "http://www.quasimondo.com/StackBlurForCanvas",
+  "authors": [
+    {
+      "name": "Mario Klingemann",
+      "email": "mario@quasimondo.com",
+      "homepage": "http://www.quasimondo.com"
+    }
+  ]
+}
